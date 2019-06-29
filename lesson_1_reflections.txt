@@ -1,0 +1,14 @@
+I've successfuly compared two file versions in my termilal using diff. 
+Yay to me!
+
+By having easy access to the entire history of a file I can find and fix my mistekes a lot faster and can become a more efficient programmer in the long term.
+
+Saving once per logical change makes the most sence. Commits should not be to long or short.
+
+Unlike some non-programer's tools, Git allows you to save a few files in one commit, JS+CSS+Html
+
+I can use git log and git diff to look throught and compare files. 
+
+I feel more confident using git as I can revert changes fast.
+
+I've set up my git bash profile.
