@@ -1,0 +1,5 @@
+I've created an empty repo to start the project.
+
+A staging area allows you to take another look at your future commit and add to it. 
+
+Branches are useful to submit experiments. Keeping organized, unique feature to share with others. switch to other part of the projectt when you get bored. 
